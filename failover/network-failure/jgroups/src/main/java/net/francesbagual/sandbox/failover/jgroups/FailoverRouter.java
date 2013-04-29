@@ -1,4 +1,4 @@
-package net.francesbagual.sandbox.failover;
+package net.francesbagual.sandbox.failover.jgroups;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

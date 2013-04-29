@@ -1,4 +1,4 @@
-package net.francesbagual.sandbox.failover;
+package net.francesbagual.sandbox.failover.jgroups;
 
 import org.jgroups.JChannel;
 import org.jgroups.Message;
